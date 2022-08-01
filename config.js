@@ -16,7 +16,7 @@ global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
 global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
 global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
-global.sessionName = "dlNWakdwNVQ="
+global.sessionName = "session="
 global.prefa = ['-']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
